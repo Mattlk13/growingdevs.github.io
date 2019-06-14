@@ -3,6 +3,6 @@ source "https://rubygems.org"
 
 gem 'thor'
 gem 'foreman'
-gem 'jekyll'
+gem 'jekyll', '>= 2.5.2'
 gem 'compass'
 gem 'redcarpet'
